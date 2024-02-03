@@ -1,0 +1,6 @@
+{
+    "debug.onTaskErrors": "debugAnyway",
+    "files.associations": {
+        "paging.h": "c"
+    },
+}
